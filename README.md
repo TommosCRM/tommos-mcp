@@ -72,7 +72,7 @@ Any other client that speaks streamable HTTP takes the same URL as a remote serv
 
 ## Sign in once
 
-Your client opens `app.tommos.ai` in the browser. Sign in with Google on a work address on your company's own domain, and allow the agent. If your company has no workspace yet, you open one on the same page and connect in one step: you are its owner. One free workspace per company domain; 14 days of everything, no card.
+Your client opens `app.tommos.ai` in the browser. Sign in with Google on a work address on your company's own domain, and allow the agent. If your company has no workspace yet, you open one on the same page and connect in one step: you are its owner. 14 days of everything, no card.
 
 The server registers OAuth clients dynamically (RFC 7591): the client needs no pre-shared client id or secret, `token_endpoint_auth_method` is `none`, and the grants are `authorization_code` and `refresh_token`.
 
