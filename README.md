@@ -1,6 +1,6 @@
 # Tommos MCP server
 
-Tommos is a CRM whose AI agents, the tommos, take a B2B inquiry to a signed contract: Tommo SDR answers the inquiry and books the call, Tommo Closer sends the recap, the proposal and the follow-ups, Tommo Legal reads the client's contract against your positions.
+Tommos is a CRM whose AI agents, the tommos, take a B2B inquiry to a signed contract: Tommo SDR answers the inquiry and books the call, Tommo Closer sends the recap and the follow-ups, Tommo Legal reads the client's contract against your positions.
 
 This repository is the documentation of the Tommos MCP server. The server itself runs at `https://app.tommos.ai/api/mcp`; there is nothing to install or run on your side. Add one address to your MCP client, sign in once, and your agent works your Tommos workspace as you, with your role: contacts, deals, forms, booking pages, the cards that wait for a decision.
 
@@ -112,7 +112,7 @@ Over 100 tools in seven groups. Every act is signed on the record, so the timeli
 
 ## Plans
 
-Book $299, Close $599, Sign $899 a month, one price per company, the agents and the model inside, no seats. 14 days of everything with no card, and a 30-day money-back guarantee on the first payment. Details: https://tommos.ai/pricing
+The agents and the model inside, no seats. 14 days of everything with no card, and a 30-day money-back guarantee on the first payment. Details: https://tommos.ai/pricing
 
 ## Elsewhere
 
