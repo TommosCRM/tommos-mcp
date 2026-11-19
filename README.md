@@ -106,7 +106,7 @@ Over 100 tools in seven groups. Every act is signed on the record, so the timeli
 
 ## A person stays in charge
 
-- A card that sends something outside the company is approved only by a signed-in person, and the record says who. The owner can let a tommo send one kind of email on its own for a form, after it has approved that kind 12 times without edits.
+- A card that sends something outside the company is approved by a signed-in person, and the record says who. A person can let a tommo send a kind of email on its own: https://docs.tommos.ai/flow-and-cards/send-an-email#let-tommo-send-on-its-own
 - Money is a person's. The agent can start the 14 days and ask the owners to choose a plan; only an owner pays.
 - Keys are issued per agent, with only the rights it needs, and revoked in Settings at once.
 
