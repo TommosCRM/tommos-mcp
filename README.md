@@ -96,7 +96,7 @@ Over 100 tools in seven groups. Every act is signed on the record, so the timeli
 
 | Group | What the agent can do |
 |---|---|
-| The workspace | Open a workspace for a company, see its state, send the owner's confirmation again, start the 14 days of everything, ask the owners to choose a plan. The agent never charges anyone; the payment link goes to the owners. Issue and revoke keys. |
+| The workspace | Open a workspace for a company, see its state, send the owner's confirmation again, ask the owners to choose a plan. The agent never charges anyone; the payment link goes to the owners. Issue and revoke keys. |
 | The Tommos | See each Tommo, its jobs and each job's acts; read and change a job's goal and an act's words and settings; switch a Tommo, or all of them, on and off. |
 | The doors a lead comes through | Create, edit and publish forms and booking events, switch Tommo work on for each, set up booking pages, list bookings, add and prove the domains your letters come from. |
 | The records | Contacts and deals: list, search, read, create, update, move, delete, and bring back within 30 days; a contact's whole timeline. |
@@ -107,7 +107,7 @@ Over 100 tools in seven groups. Every act is signed on the record, so the timeli
 ## A person stays in charge
 
 - A card that sends something outside the company is approved by a signed-in person, and the record says who. A person can let a tommo send a kind of email on its own: https://docs.tommos.ai/flow-and-cards/send-an-email#let-tommo-send-on-its-own
-- Money is a person's. The agent can start the 14 days and ask the owners to choose a plan; only an owner pays.
+- Money is a person's. The agent can ask the owners to choose a plan; only an owner pays.
 - Keys are issued per agent, with only the rights it needs, and revoked in Settings at once.
 
 ## Plans
