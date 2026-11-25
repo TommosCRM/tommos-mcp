@@ -117,5 +117,5 @@ The agents and the model inside, no seats. 14 days of everything with no card, a
 ## Elsewhere
 
 - The official MCP Registry: `ai.tommos/tommos`
-- Glama, Smithery, mcpservers.org: search «Tommos»
+- [Glama](https://glama.ai/mcp/connectors/ai.tommos/tommos), Smithery, mcpservers.org: search «Tommos»
 - Questions: hello@tommos.ai
